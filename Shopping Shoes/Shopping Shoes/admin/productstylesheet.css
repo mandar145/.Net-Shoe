@@ -1,0 +1,125 @@
+
+ .head{
+    /* border:solid; */
+    height:53px;
+}
+
+.top{
+    border-style: groove;
+}
+
+
+
+
+.aside{
+    /* border: solid; */
+    float: right;
+    width: 85%;
+ 
+    /* background-color: azure; */
+}
+
+.homecontent{
+    border-color:blue;
+    border-width:20px;
+    width:100%;
+    min-height:1500px;
+
+}
+
+ section{
+
+    float:left;    
+    width: 15%;
+    padding-top: 80px;
+  
+     /*border-style:groove;*/
+    height: 1200px;
+    font-size: medium;
+    font-family: 'Roboto', sans-serif;
+    } 
+
+    .division1{
+        width:90%;
+        text-align: center;
+        /* border:solid; */
+        font-size: larger;
+       /* border: solid; */
+        color:black;
+        padding-left:10px;
+        padding-top:8px;
+        padding-bottom: 8px;
+        margin-left:10px;
+        border-radius: 10px;
+        background-color:aquamarine;
+    }
+    
+    .division2{
+        width:90%;
+        text-align: center;
+        /* border:solid; */
+        font-size: larger;
+        color:black;
+        background-color: aquamarine;
+        padding-left:10px;
+        padding-top:8px;
+        padding-bottom: 8px;
+        margin-top: 50px;
+        margin-left:10px;
+        border-radius: 10px;
+        
+      
+    }
+
+    .col-sm-3{
+        /* border:solid; */
+        border-style:groove;
+        border-width: 2px;
+        height:500px;
+        text-align: center;
+        margin-right:1px;
+        margin-left:1px;
+     /* background-color:lightblue;  */
+      }
+     .sm2{
+         width: 24%;
+         text-align: center;
+         height: 500px;
+         margin-right:5px;
+         /* border: solid; */
+         border-style:groove;
+        border-width: 2px;
+         float:right;
+     }
+.product_desc{
+    
+    /* border: solid; */
+    margin-top: 40px;
+    padding-top:20px;
+}
+
+.product_size{
+    margin-top: 5px;
+    border-style: groove;
+    padding-top:4px;
+    margin-left: 80px;
+    margin-right:80px;
+
+}
+.product_qty{
+ margin-top: 5px;
+ border-style: groove;
+ margin-left: 80px;
+ margin-right:80px;
+
+}
+.product_price{
+    
+    border-style:groove;
+    margin-top:5px;
+    margin-bottom:50px;
+    margin-left: 80px;
+    margin-right:80px;
+
+}
+   
